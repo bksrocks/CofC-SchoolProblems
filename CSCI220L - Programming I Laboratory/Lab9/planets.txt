@@ -1,0 +1,8 @@
+Sphere (x=-695.6937, y=-275.8869, z=26.2322, radius=1516, texture="mercury")
+Sphere (x=377.4158, y=-303.4448, z=414.7274, radius=3760.4, texture="venus")
+Sphere (x=142.1846, y=-768.4755, z=-396.7858, radius=3958.8, texture="earth")
+Sphere (x=194.7787, y=469.9078, z=-810.0957, radius=2106.1, texture="mars")
+Sphere (x=883.4018, y=147.084, z=-83.5448, radius=43441, texture="jupiter")
+Sphere (x=-597.1536, y=-746.3065, z=249.5895, radius=36184, texture="saturn")
+Sphere (x=503.6079, y=-537.4436, z=686.3265, radius=15299, texture="uranus")
+Sphere (x=-426.1875, y=-229.3217, z=677.6872, radius=15759, texture="neptune")

@@ -1,0 +1,8 @@
+Sphere 1 surface area: 28880736.66 
+Sphere 2 surface area: 177696122.85 
+Sphere 3 surface area: 196941384.74 
+Sphere 4 surface area: 55740112.42 
+Sphere 5 surface area: 23714255358.19 
+Sphere 6 surface area: 16452921041.15 
+Sphere 7 surface area: 2941277178.74 
+Sphere 8 surface area: 3120808894.47 
